@@ -1,0 +1,15 @@
+/workspaces/binary/bin/Release/net8.0/win-x64/binary.exe
+/workspaces/binary/bin/Release/net8.0/win-x64/binary.deps.json
+/workspaces/binary/bin/Release/net8.0/win-x64/binary.runtimeconfig.json
+/workspaces/binary/bin/Release/net8.0/win-x64/binary.dll
+/workspaces/binary/bin/Release/net8.0/win-x64/binary.pdb
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.AssemblyInfoInputs.cache
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.AssemblyInfo.cs
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.csproj.CoreCompileInputs.cache
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.sourcelink.json
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.dll
+/workspaces/binary/obj/Release/net8.0/win-x64/refint/binary.dll
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.pdb
+/workspaces/binary/obj/Release/net8.0/win-x64/binary.genruntimeconfig.cache
+/workspaces/binary/obj/Release/net8.0/win-x64/ref/binary.dll

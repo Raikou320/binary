@@ -1,0 +1,15 @@
+/workspaces/binary/obj/Debug/net8.0/binary.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/binary/obj/Debug/net8.0/binary.AssemblyInfoInputs.cache
+/workspaces/binary/obj/Debug/net8.0/binary.AssemblyInfo.cs
+/workspaces/binary/obj/Debug/net8.0/binary.csproj.CoreCompileInputs.cache
+/workspaces/binary/obj/Debug/net8.0/binary.sourcelink.json
+/workspaces/binary/bin/Debug/net8.0/binary
+/workspaces/binary/bin/Debug/net8.0/binary.deps.json
+/workspaces/binary/bin/Debug/net8.0/binary.runtimeconfig.json
+/workspaces/binary/bin/Debug/net8.0/binary.dll
+/workspaces/binary/bin/Debug/net8.0/binary.pdb
+/workspaces/binary/obj/Debug/net8.0/binary.dll
+/workspaces/binary/obj/Debug/net8.0/refint/binary.dll
+/workspaces/binary/obj/Debug/net8.0/binary.pdb
+/workspaces/binary/obj/Debug/net8.0/binary.genruntimeconfig.cache
+/workspaces/binary/obj/Debug/net8.0/ref/binary.dll

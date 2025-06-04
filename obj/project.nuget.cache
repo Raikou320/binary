@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CF04PLgrRYM=",
+  "success": true,
+  "projectFilePath": "/workspaces/binary/binary.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.14/microsoft.netcore.app.host.win-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
