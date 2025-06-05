@@ -1,5 +1,2 @@
-/workspaces/binary/binary
-/workspaces/binary/binary.dll
-/workspaces/binary/binary.deps.json
-/workspaces/binary/binary.runtimeconfig.json
 /workspaces/binary/binary.pdb
+/workspaces/binary/binary
